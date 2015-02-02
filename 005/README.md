@@ -26,3 +26,9 @@ I have also prepared a hard.js and nightmare.js you can complete them the same w
 1. Post a comment on the issue assigned to you with a link to your blog post.
 2. Post a comment on the issue assigned to you with a link to your repo containing the normal.js (and others if you did them.)
 
+## Resources
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+* http://saladwithsteve.com/2008/02/javascript-undefined-vs-null.html
