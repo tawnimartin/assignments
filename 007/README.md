@@ -12,7 +12,7 @@ After completing this assignment, you should:
 * Understand arrays and loops
 * Have the ability to breakdown multiple steps into a series of statements in JS
 
-## Homework - 3 Part Series
+## Homework
 
 ### Part 1
 
