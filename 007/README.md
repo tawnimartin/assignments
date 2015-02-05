@@ -16,7 +16,7 @@ After completing this assignment, you should:
 
 ### Part 1
 
-1. Create a new project/repo with the attached files `items.js` and `index.html`. Create another file called `answers.js`, the `index.html` file is already set to include both scripts.
+1. Create a new project/repo with the attached files `items.js`, `excercises.js` and `index.html`. Create another file called `answers.js`, the `index.html` file is already set to include all scripts.
 2. Using the `items` variable, use `array.map()`, `array.reduce()`, `array.forEach`, and `array.filter()` to help you through the following questions. Put your answers inside the `answers.js`, there should be no JavaScript errors when loaded on github pages.
 
 > Make sure the output matches the answers below each question. I am not concerned about line breaks etc, just that correct data is there. I'm also more concerned about how you got there, so PLEASE comment your code as you walk through your though process.
