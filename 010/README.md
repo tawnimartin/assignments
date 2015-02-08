@@ -7,7 +7,7 @@ ___This homework is due by 8am, on 02/16/15___
 After completing this assignment, you should:
 
 * Have a deep understanding of layout
-* Understand JavaScript Templating (using Underscore or Lodash)
+* Understand JavaScript Templating (using Underscore)
 * Demonstrate strong ability to navigate through a large block of JSON data
 
 ## Homework
