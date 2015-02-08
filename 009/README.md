@@ -18,7 +18,7 @@ The fonts I used are:
 
   * Play
   * Courgette
-  * Kaushan+Script
+  * Kaushan Script
 
 Here is a url with all of them: http://fonts.googleapis.com/css?family=Play|Courgette|Kaushan+Script
 
