@@ -27,4 +27,10 @@ Here is a url with all of them: http://fonts.googleapis.com/css?family=Play|Cour
 * [$.removeClass](http://api.jquery.com/addclass/)
 * [$.addClass](http://api.jquery.com/removeclass/)
 * [$.on](http://api.jquery.com/on/)
+* [Gradient generator](http://www.colorzilla.com/gradient-editor/)
+* [user-select](https://developer.mozilla.org/en-US/docs/Web/CSS/user-select)
+* [border-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)
+* [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+* [cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
+* [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
 
