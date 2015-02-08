@@ -8,7 +8,7 @@ This assignment is a little more involved so you have 2 days to complete it.
 
 Create the calculator that you see below:
 
-![](./_meta/screenshot.gif)
+![](./_meta/screenshot.png)
 
 You can check out a functioning version [here](http://s.codepen.io/jisaacks/debug/gbXvre).
 
