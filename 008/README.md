@@ -38,5 +38,6 @@ ___This homework is due by 8am, on 02/10/15___
 ## Resources
 
 * [setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers.setInterval)
+* [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 * [$.text](http://api.jquery.com/text/)
 * [$.css](http://api.jquery.com/css/)
