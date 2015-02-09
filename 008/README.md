@@ -6,8 +6,8 @@ ___This homework is due by 8am, on 02/10/15___
 
   __Part 1.__ Create a JavaScript clock like you see in `basic.gif` below.
 
-    * Note it does not need to be the same font, just look similiar.
-    * Have fun with the design.
+  * Note it does not need to be the same font, just look similiar.
+  * Have fun with the design.
 
 ![](./_meta/basic.gif)
 
