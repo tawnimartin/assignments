@@ -5,7 +5,7 @@
 //   / , _/ _// _// __ / /__  / / / /_/ / , _/  //
 //  /_/|_/___/_/ /_/ |_\___/ /_/  \____/_/|_|   //
 //                                              //
-// The blow assignment has 10 questions with 1  //
+// The below assignment has 10 questions with 1 //
 // bonus question. Each question has a specific //
 // area for you to put your answer. That is the //
 // only part that should be changed. Do not     //
