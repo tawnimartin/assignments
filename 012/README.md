@@ -15,8 +15,7 @@ Work on missing/incomplete assignments
 Don't have missing/incomplete assignments? Read this stuff:
 
   * [JavaScript Hoisting Explained](http://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092)
-  * [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
-  * [Or read about closures on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+  * [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
 Still looking for more?
 
