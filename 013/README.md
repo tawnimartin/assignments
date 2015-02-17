@@ -4,7 +4,7 @@ ___This homework is due by 8am, on 02/19/15___
 
 ## Homework
 
-Copy the included `constructors.js` to a new projects. Add an index.html that includes it. Answer all the questions and upload to __gh-pages__.
+Copy the included `constructors.js` to a new project. Add an index.html that includes it. Answer all the questions and upload to __gh-pages__.
 
 Keep in mind in the examples in `constructors.js`
 I need to be able to test them in __gh-pages__ on the
