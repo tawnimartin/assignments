@@ -32,8 +32,8 @@ The file `since.jquery.js` contains a jQuery plugin. Currently it sets html elem
   * if the date is less than __5 minutes ago__, make the elment's text: __a few minutes ago__
   * if the date is less than __1 hour ago__, make the elment's text: __within the past hour__
   * if the date is less than __1 day ago__, make the elment's text: __today__
-  * if the date is less than __6 day ago__, make the elment's text: __whatever the day is for the given data (e.g. Friday)__
-  * if the date is more than __6 day ago__, make the elment's text: __/mm/dd/yyyy__
+  * if the date is less than __6 days ago__, make the elment's text: __whatever the day is for the given data (e.g. Friday)__
+  * if the date is more than __6 days ago__, make the elment's text: __/mm/dd/yyyy__
 
   You can go even further by using an interval to keep the message up to date without having to recall the jQuery plugin. Meaning you call it on an element and the text gets set to _just now_, then 2 minutes later, it auto resets to __a few minutes ago__ and so on.
 
