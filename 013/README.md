@@ -4,6 +4,8 @@ ___This homework is due by 8am, on 02/19/15___
 
 ## Homework
 
+### Normal Mode
+
 Copy the included `constructors.js` to a new project. Add an index.html that includes it. Answer all the questions and upload to __gh-pages__.
 
 Keep in mind in the examples in `constructors.js`
@@ -15,6 +17,25 @@ that validates each answer. It will currently say:
 `Assertion failed` for each question. Once you answer
 the question correctly that will go away. Use this to
 check your work.
+
+### Hard Mode
+
+In the `constructors.js` there is a bonus question at the bottom. This is your hard mode. If you are finished with your normal mode before 7pm I would urge you to try the hard mode.
+
+### Nightmare Mode
+
+The file `since.jquery.js` contains a jQuery plugin. Currently it sets html elements to have a red color and background. Refactor it to do the following:
+
+  * Check each selected element for a data attribute of `since` that will be used as the date for that html element. If not present, use the current date.
+
+  * if the date is less than __1 minute ago__, make the elments text: __just now__
+  * if the date is less than __5 minutes ago__, make the elments text: __a few minutes ago__
+  * if the date is less than __1 hour ago__, make the elments text: __within the past hour__
+  * if the date is less than __1 day ago__, make the elments text: __today__
+  * if the date is less than __6 day ago__, make the elments text: __whatever the day is for the given data (e.g. Friday)__
+  * if the date is more than __6 day ago__, make the elments text: __/mm/dd/yyyy__
+
+  You can go even further by using an interval to keep the message up to date without having to recall the jQuery plugin. Meaning you call it on an element and the text gets set to _just now_, then 2 minutes later, it auto resets to __a few minutes ago__ and so on.
 
 ## Deliverables
 
