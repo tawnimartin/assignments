@@ -13,7 +13,7 @@ You can make the images self hosted (in the repo in an images folder) or you can
 
 ## Wireframes
 
-![Wireframes](assets/photo-album.png)
+![Wireframes](_meta/photo-album.png)
 
 
 ## Objectives
