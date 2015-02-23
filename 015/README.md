@@ -5,7 +5,7 @@ ___This homework is due by 8am, on 02/24/15___
 
 ## Homework
 
-Clone the [intro-to-bdd](https://github.com/tiy-tpa-js-q1-2015/intro-to-bdd) repo. __Do not__ bother wipping out the `.git` and starting over. I want to be able to compare your changes from the starting point I have provided.
+Clone the [intro-to-bdd](https://github.com/tiy-tpa-js-q1-2015/intro-to-bdd) repo. __Do not__ bother wiping out the `.git` and starting over. I want to be able to compare your changes from the starting point I have provided.
 
 You will find 2 constructors in this project in the `js` folder called `foo` and `bar`. Foo is empty and Bar is already implemented.
 
