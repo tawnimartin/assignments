@@ -17,10 +17,17 @@ __Part 2__
 
 Bar is already implemented but has no tests. Write a test for every method on Bar. Put this in `test/test.bar.js`
 
+__Part 3__
+
+Write another blog post. You know the drill.
+
 
 ## Deliverables
 
-* Push your repo to `gh-pages` and send me a link to both your repo and the github pages.
+* Push your repo to `gh-pages` and comment on the issue assigned to you with 3 links:
+  - Link to github pages
+  - Link to Repo
+  - Link to your blog post
 
 * All the specs for `Foo` should be passing and there should also be a passing test for every method on `Bar`.
 
