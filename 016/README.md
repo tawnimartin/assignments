@@ -15,6 +15,8 @@ Build a jQuery Accordian like the one you see below:
 * It needs to build the accordian using JSON data loaded from an Ajax request
 * have fun with the style
 
+__Pointer:__ Build it first without the transitions, then worry about making it transition. You may use any means of making it transition.
+
 ### Part 2
 
 Create your own mini JS library. Here is an example
