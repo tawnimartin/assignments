@@ -29,3 +29,8 @@ Make the grid sortable by column.
 ## Deliverables
 
 Push your grid to github and github pages and comment on the issue assigned to you with a link to both.
+
+
+## Resources
+
+* [Backbone.Model](http://backbonejs.org/#Model)
