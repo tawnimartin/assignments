@@ -7,7 +7,7 @@ ___This homework is due by 8am, on 03/04/15___
 
 Create a Backbone model called `Employee`, Use it with the included [data.json](data.json) to build an employee grid.
 
-The grid needs to have column headings for every property. The column headings bust be dynamic, meaning you must programmatically determine the headings of the grid based on the data once it is loaded.
+The grid needs to have column headings for every property. The column headings must be dynamic, meaning you must programmatically determine the headings of the grid based on the data once it is loaded.
 
 Note the data is a JSON __array__, not an object, so you will need to load it using a regular Ajax request. Once you get the data you will need to iterate over it to create a model for each object.
 
