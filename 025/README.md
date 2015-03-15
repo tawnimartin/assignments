@@ -12,7 +12,7 @@ ___This homework is due by 8am, on 03/17/15___
 * Create 2 custom react components
 
   * Create one called `SearchBar` that combines a text field and a search button.
-  * Create another one called `SearchBox` that contains a search bar, and simple logs the text `Search: <keywords>` where `<keywords>` are the actual keywords whenever the search button is pressed.
+  * Create another one called `SearchBox` that contains a search bar, and just logs the text `Search: <keywords>` where `<keywords>` are the actual keywords whenever the search button is pressed.
 
 * Write a blog post
 
