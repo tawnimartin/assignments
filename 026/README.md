@@ -14,8 +14,8 @@ Do not worry about making this pretty or adding extra stuff. This is just an exe
 
 Watch these 2 videos essays (each one is about ~5 mins):
 
-* [THE LONG GAME PART 1](http://delve.tv/the-long-game-part-one/)
-* [THE LONG GAME PART 2](http://delve.tv/the-long-game-part-2/)
+* [THE LONG GAME PART 1](http://delve.tv/the-long-game-part-one/#video_middle)
+* [THE LONG GAME PART 2](http://delve.tv/the-long-game-part-2/#video_middle)
 
 ### Deliverables
 
