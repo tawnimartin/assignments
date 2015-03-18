@@ -31,6 +31,9 @@ Student A writes the code for the Backbone.View, but Student B tells Student A w
 Student B writes the code for the React view, but student A tells student B what code to write.
 
 
+Also have fun with the design.
+
+
 ## Deliverables
 
 Just create a single repo, I do not care whose name it is under, but I want to see commits by both students. Deploy to github pages and comment on issue assigned with links to both.
